@@ -204,25 +204,25 @@
   ],
   "images": [
     {
-      "uri": "textures/Kepler_emissive.png"
+      "uri": "Kepler_emissive.png"
     },
     {
-      "uri": "textures/Kepler_normal.png"
+      "uri": "Kepler_normal.png"
     },
     {
-      "uri": "textures/Kepler_metallicRoughness.png"
+      "uri": "Kepler_metallicRoughness.png"
     },
     {
-      "uri": "textures/Kepler_baseColor.png"
+      "uri": "Kepler_baseColor.png"
     },
     {
-      "uri": "textures/CLOUDS_baseColor.png"
+      "uri": "CLOUDS_baseColor.png"
     },
     {
-      "uri": "textures/CLOUDS_emissive.png"
+      "uri": "CLOUDS_emissive.png"
     },
     {
-      "uri": "textures/CLOUDS_normal.png"
+      "uri": "CLOUDS_normal.png"
     }
   ],
   "materials": [

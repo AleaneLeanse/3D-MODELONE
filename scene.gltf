@@ -1035,16 +1035,16 @@
   ],
   "images": [
     {
-      "uri": "textures/St.%20John%20Ambulance_diffuse.jpeg"
+      "uri": "St.%20John%20Ambulance_diffuse.jpeg"
     },
     {
-      "uri": "textures/Blue%20Wood_diffuse.jpeg"
+      "uri": "Blue%20Wood_diffuse.jpeg"
     },
     {
-      "uri": "textures/Blue%20Wood_specularGlossiness.jpeg"
+      "uri": "Blue%20Wood_specularGlossiness.jpeg"
     },
     {
-      "uri": "textures/PTFFUOPA%26AOIO%26CRTACPTO_diffuse.jpeg"
+      "uri": "PTFFUOPA%26AOIO%26CRTACPTO_diffuse.jpeg"
     }
   ],
   "materials": [
